@@ -1,3 +1,8 @@
+# GOOGLE CLONE USING REACT
+
+This project is mainly focused on building the components of google search engine. It uses the GOOGLE API to get and patch the data to the user.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
